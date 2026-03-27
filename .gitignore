@@ -24,3 +24,5 @@ plot.png
 .idea/
 .vscode/
 *.swp
+
+/data
